@@ -39,7 +39,7 @@
     "lint:ci": "eslint src/** --max-warnings=0",
     "lint:fix": "eslint --fix src/**",
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [
