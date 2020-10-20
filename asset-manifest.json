@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/antisaa.github.io/static/js/main.e32dfa02.chunk.js",
+    "main.js.map": "/antisaa.github.io/static/js/main.e32dfa02.chunk.js.map",
+    "runtime-main.js": "/antisaa.github.io/static/js/runtime-main.e9d8907d.js",
+    "runtime-main.js.map": "/antisaa.github.io/static/js/runtime-main.e9d8907d.js.map",
+    "static/css/2.56bc49bb.chunk.css": "/antisaa.github.io/static/css/2.56bc49bb.chunk.css",
+    "static/js/2.19bcbc20.chunk.js": "/antisaa.github.io/static/js/2.19bcbc20.chunk.js",
+    "static/js/2.19bcbc20.chunk.js.map": "/antisaa.github.io/static/js/2.19bcbc20.chunk.js.map",
+    "index.html": "/antisaa.github.io/index.html",
+    "precache-manifest.d9a419b0bb9204a3790eded5585c1e58.js": "/antisaa.github.io/precache-manifest.d9a419b0bb9204a3790eded5585c1e58.js",
+    "service-worker.js": "/antisaa.github.io/service-worker.js",
+    "static/css/2.56bc49bb.chunk.css.map": "/antisaa.github.io/static/css/2.56bc49bb.chunk.css.map",
+    "static/js/2.19bcbc20.chunk.js.LICENSE.txt": "/antisaa.github.io/static/js/2.19bcbc20.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/antisaa.github.io/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9d8907d.js",
+    "static/css/2.56bc49bb.chunk.css",
+    "static/js/2.19bcbc20.chunk.js",
+    "static/js/main.e32dfa02.chunk.js"
+  ]
+}
