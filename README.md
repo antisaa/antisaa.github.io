@@ -1,3 +1,3 @@
 # Substrate Front End Template
 
-Deployed at https://github.com/antisaa/antisaa.github.io
+Deployed at https://antisaa.github.io/antisaa.github.io/
